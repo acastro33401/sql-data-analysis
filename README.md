@@ -22,9 +22,6 @@ Structured query language work from MISY 330 (Database Design & Implementation).
 **`Decision_Trees_Loans.ipynb`**  
 Decision tree classifier applied to a loan dataset — predicting loan outcomes based on borrower characteristics. Covers model training, evaluation, and feature importance.
 
-**`Linear_Regression_Car_Price.ipynb`**  
-Multivariate linear regression to predict car prices. Includes data cleaning, feature selection, multicollinearity analysis, and train/test split with k-fold cross-validation.
-
 **`KMeans_Donation.ipynb`**  
 K-Means clustering applied to donor data to identify distinct giving segments — useful for targeted outreach and resource allocation.
 
@@ -35,9 +32,6 @@ Exploratory data analysis and visualization of IRS tax return data. Includes dat
 
 **`Project6_DecisionTree_Titanic.ipynb`**  
 Decision tree model on the Titanic dataset — a classic binary classification problem. Includes preprocessing, model building, and accuracy evaluation.
-
-**`FinalP_Set_AlanCastro.ipynb`**  
-Final problem set from MISY 445 (Data Science for Finance) — covers multiple ML techniques applied to structured financial datasets.
 
 ---
 
